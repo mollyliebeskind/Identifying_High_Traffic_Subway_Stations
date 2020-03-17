@@ -1,4 +1,4 @@
-# Identifying_High_Traffic_Subway_Stations
+# Identifying High Traffic Subway Stations
 
 ## Objective
 Performed exploratory data analysis to identify high-traffic times and locations within the New York City Subway system where street marketing would be most impactful. The target audience is females interested in technology with the ability to contribute money to a cause. 
